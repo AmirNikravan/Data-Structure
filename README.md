@@ -1,2 +1,3 @@
 # Recursive
-some examples of recursive functions implements 
+These topics are implemented by C++
+->array 
